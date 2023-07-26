@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// 전역변수 선언
 char str[30];
 
 typedef struct {
